@@ -37,7 +37,7 @@ export var ruStrings = {
     radiogroup: "Единичный выбор",
     rating: "Рейтинг (шкала)",
     text: "Текстовый ввод",
-    boolean: "Булиевое значение",
+    boolean: "Булево значение",
     expression: "Выражение (только для чтения)",
     signaturepad: "Подпись",
     buttongroup: "Группа кнопок"
